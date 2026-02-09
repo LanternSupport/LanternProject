@@ -1,4 +1,3 @@
-# LanternProject
 ==================================================
  FiveM & System Ultimate Cleaner (v1.0)
  Created by: LanternSupport
