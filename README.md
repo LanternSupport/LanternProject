@@ -1,7 +1,5 @@
-==================================================
  FiveM & System Ultimate Cleaner (v1.0)
  Created by: LanternSupport
-==================================================
 
 [ABOUT]
 This tool helps you clean cache files for FiveM, Discord, and Windows 
